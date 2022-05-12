@@ -1,7 +1,7 @@
 👋 Hi, thank you for visiting.
 
 - 👀 This will be my codes-cheatsheet and practices to track my progress in learning Data Engineering and Machine Learning.
-- 🌱 Currently, I have a basic knowlege in Python and my goal is to master this before I proceed to my next target - SQL.
+- 🌱 Currently, I have a basic knowledge in Python and my goal is to master this before I proceed to my next target - SQL.
 - 💞️ I’m looking to collaborate on my study to master the data engineering field.
 
 🧑‍🎓 ABOUT ME:
